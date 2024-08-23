@@ -123,11 +123,26 @@
     },
     {
         "id": 10,
-        "name": "Allri Innate", 
+        "name": "Allriandre Durkel",
+        "description": "is a single mother in Elendel on Scadrial.",
+        "residence": "Elendel",
+        "homeworld": "Scadrial",
+        "universe": "Cosmere",
         "culture": ["Survivorism", "The Path", "Sliverism", "Trellism"],
         "organizations": ["The Set", "The Vanishers", "The Ghostbloods"],
         "shards": ["Preservation", "Ruin", "Harmony"],
         "magic": ["Allomancy", "Feruchemy", "Hemalurgy", "Metalborn", "Mistborn", "Misting", "Savant", "Ferring", "Twinborn", "Compounding", "Atium", "Lerasium", "Harmonium", "Trellium"]
-    }
-    
+    },
+    {
+        "id": 11,
+        "name": "Allriandre Durkel",
+        "description": "is a single mother in Elendel on Scadrial.",
+        "residence": "Elendel",
+        "homeworld": "Scadrial",
+        "universe": "Cosmere",
+        "culture": ["Survivorism", "The Path", "Sliverism", "Trellism"],
+        "organizations": ["The Set", "The Vanishers", "The Ghostbloods"],
+        "shards": ["Preservation", "Ruin", "Harmony"],
+        "magic": ["Allomancy", "Feruchemy", "Hemalurgy", "Metalborn", "Mistborn", "Misting", "Savant", "Ferring", "Twinborn", "Compounding", "Atium", "Lerasium", "Harmonium", "Trellium"]
+    },
 ]
