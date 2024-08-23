@@ -59,7 +59,11 @@
     },
     {
         "id": 5,
-        "name": "Alendi", 
+        "name": "Alendi",
+        "description": "is a young noble from Fadrex City on Scadrial. He was the cousin of Slowswift and had a brother named Troalin.", 
+        "nationality": "Khlenni",
+        "homeworld": "Scadrial",
+        "universe": "Cosmere",
         "culture": [],
         "organizations": ["Skaa", "rebellion", "Steel Ministry", "Keepers (the Synod)", "Worldbringers"],
         "shards": ["Preservation", "Ruin", "Harmony"],
