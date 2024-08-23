@@ -1,0 +1,109 @@
+[
+    {
+        "id": 1,
+        "name": "Abrem",
+        "description": "is a man kidnapped by the Set on Scadrial. The Set brought him to the Wayfarer and made him believe that the Ashmounts had erupted and the outside world was a wasteland.",
+        "homeworld": "Scadrial",
+        "universe": "Cosmere",
+        "introduced": "The Lost Metal",
+        "culture": ["Survivorism", "The Path", "Sliverism", "Trellism"],
+        "organizations": ["The Set", "The Vanishers", "The Ghostbloods"],
+        "shards": ["Preservation", "Ruin", "Harmony"],
+        "magic": ["Allomancy", "Feruchemy", "Hemalurgy", "Metalborn", "Mistborn", "Misting", "Savant", "Ferring", "Twinborn", "Compounding", "Atium", "Lerasium", "Harmonium", "Trellium"]
+    },
+    {
+        "id": 2,
+        "name": "Adawathwyn",
+        "description": "is a former vice governor of Elendel under Governor Varlance Adawathwyn is a Terris Sparker. ",
+        "abilities": "Sparker",
+        "residence": "Elendel",
+        "ethnicity": "Terris",
+        "homeworld": "Scadrial",
+        "universe":	"Cosmere",
+        "introduced": "The Lost Metal",
+        "culture": ["Survivorism", "The Path", "Sliverism", "Trellism"],
+        "organizations": ["The Set", "The Vanishers", "The Ghostbloods"],
+        "shards": ["Preservation", "Ruin", "Harmony"],
+        "magic": ["Allomancy", "Feruchemy", "Hemalurgy", "Metalborn", "Mistborn", "Misting", "Savant", "Ferring", "Twinborn", "Compounding", "Atium", "Lerasium", "Harmonium", "Trellium"]
+    },
+    {
+        "id": 3,
+        "name": "Admiral Daal", 
+        "description": "is the ambassador of the Malwish Consortium to Elendel. He replaced Jonnes in that position.",
+        "quote": "One wonders what would have happened if our people had met during a more … warlike era. Why, one quick bombing campaign and your city would fold like an old flag —Daal to Wax ",
+        "ethnicity": "Southern Scadrian",
+        "nationality": 	"Malwish",
+        "homeworld": "Scadrial",
+        "universe": "Cosmere",
+        "introduced": "The Lost Metal",
+        "culture": ["Survivorism", "The Path", "Sliverism", "Trellism"],
+        "organizations": ["The Set", "The Vanishers", "The Ghostbloods"],
+        "shards": ["Preservation", "Ruin", "Harmony"],
+        "magic": ["Allomancy", "Feruchemy", "Hemalurgy", "Metalborn", "Mistborn", "Misting", "Savant", "Ferring", "Twinborn", "Compounding", "Atium", "Lerasium", "Harmonium", "Trellium"]
+    },
+    {
+        "id": 4,
+        "name": "Aledin",
+        "description": "is a young noble from Fadrex City on Scadrial. He was the cousin of Slowswift and had a brother named Troalin.", 
+        "siblings": "Troalin",
+        "relatives": "Slowswift",
+        "residence": "Fadrex City",
+        "ethnicity": ["Skaa", "Noble"],
+        "homeworld": "Scadrial",
+        "universe": "Cosmere",
+        "introduced": "The Hero of Ages",
+        "culture": [],
+        "organizations": ["Skaa", "rebellion", "Steel Ministry", "Keepers (the Synod)", "Worldbringers"],
+        "shards": ["Preservation", "Ruin", "Harmony"],
+        "magic": ["Allomancy", "Feruchemy", "Hemalurgy", "Metalborn", "Mistborn", "Misting", "Savant", "Ferring", "Twinborn", "Compounding", "Atium", "Lerasium", "Harmonium", "Trellium"]
+    },
+    {
+        "id": 5,
+        "name": "Alendi", 
+        "culture": [],
+        "organizations": ["Skaa", "rebellion", "Steel Ministry", "Keepers (the Synod)", "Worldbringers"],
+        "shards": ["Preservation", "Ruin", "Harmony"],
+        "magic": ["Allomancy", "Feruchemy", "Hemalurgy", "Metalborn", "Mistborn", "Misting", "Savant", "Ferring", "Twinborn", "Compounding", "Atium", "Lerasium", "Harmonium", "Trellium"]
+    },
+    {
+        "id": 6,
+        "name": "Alernath", 
+        "culture": ["Survivorism", "The Path", "Sliverism", "Trellism"],
+        "organizations": ["The Set", "The Vanishers", "The Ghostbloods"],
+        "shards": ["Preservation", "Ruin", "Harmony"],
+        "magic": ["Allomancy", "Feruchemy", "Hemalurgy", "Metalborn", "Mistborn", "Misting", "Savant", "Ferring", "Twinborn", "Compounding", "Atium", "Lerasium", "Harmonium", "Trellium"]
+    },
+    {
+        "id": 7,
+        "name": "Allik Neverfar", 
+        "culture": ["Survivorism", "The Path", "Sliverism", "Trellism"],
+        "organizations": ["The Set", "The Vanishers", "The Ghostbloods"],
+        "shards": ["Preservation", "Ruin", "Harmony"],
+        "magic": ["Allomancy", "Feruchemy", "Hemalurgy", "Metalborn", "Mistborn", "Misting", "Savant", "Ferring", "Twinborn", "Compounding", "Atium", "Lerasium", "Harmonium", "Trellium"]
+    },
+    {
+        "id": 8,
+        "name": "Alloran Feltri", 
+        "culture": ["Survivorism", "The Path", "Sliverism", "Trellism"],
+        "organizations": ["The Set", "The Vanishers", "The Ghostbloods"],
+        "shards": ["Preservation", "Ruin", "Harmony"],
+        "magic": ["Allomancy", "Feruchemy", "Hemalurgy", "Metalborn", "Mistborn", "Misting", "Savant", "Ferring", "Twinborn", "Compounding", "Atium", "Lerasium", "Harmonium", "Trellium"]
+    },
+    {
+        "id": 9,
+        "name": "Allri Innate", 
+        "culture": ["Survivorism", "The Path", "Sliverism", "Trellism"],
+        "organizations": ["The Set", "The Vanishers", "The Ghostbloods"],
+        "shards": ["Preservation", "Ruin", "Harmony"],
+        "magic": ["Allomancy", "Feruchemy", "Hemalurgy", "Metalborn", "Mistborn", "Misting", "Savant", "Ferring", "Twinborn", "Compounding", "Atium", "Lerasium", "Harmonium", "Trellium"]
+    },
+    {
+        "id": 10,
+        "name": "Allri Innate", 
+        "culture": ["Survivorism", "The Path", "Sliverism", "Trellism"],
+        "organizations": ["The Set", "The Vanishers", "The Ghostbloods"],
+        "shards": ["Preservation", "Ruin", "Harmony"],
+        "magic": ["Allomancy", "Feruchemy", "Hemalurgy", "Metalborn", "Mistborn", "Misting", "Savant", "Ferring", "Twinborn", "Compounding", "Atium", "Lerasium", "Harmonium", "Trellium"]
+    }
+    
+]
