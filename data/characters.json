@@ -72,6 +72,10 @@
     {
         "id": 6,
         "name": "Alernath", 
+        "description": "is a member of the nobility in Elendel and an associate of Lord Jackstom Harms."
+        "residence": "Elendel",
+        "homeworld": "Scadrial",
+        "universe": "Cosmere",
         "culture": ["Survivorism", "The Path", "Sliverism", "Trellism"],
         "organizations": ["The Set", "The Vanishers", "The Ghostbloods"],
         "shards": ["Preservation", "Ruin", "Harmony"],
