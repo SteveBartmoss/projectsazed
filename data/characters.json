@@ -135,7 +135,7 @@
     },
     {
         "id": 11,
-        "name": "Allriandre Cett",
+        "name": "Allrianne Cett",
         "description": "is a noblewoman from the Western Dominance and a zinc Misting (aka a Rioter) on Scadrial during the Final Empire and subsequent Collapse. ",
         "residence": "Elendel",
         "homeworld": "Scadrial",
@@ -153,5 +153,27 @@
         "groups": "Venture army",
         "ethnicity": "Noble",
         "introduced": "The Well of Ascension"
+    },
+    {
+        "id": 12,
+        "name": "Allrianne's mother",
+        "description": "is a noblewoman from the Western Dominance of Scadrial's Final Empire.",
+        "residence": "Fadrex City",
+        "homeworld": "Scadrial",
+        "universe": "Cosmere",
+        "culture": ["Survivorism", "The Path", "Sliverism", "Trellism"],
+        "organizations": ["The Set", "The Vanishers", "The Ghostbloods"],
+        "shards": ["Preservation", "Ruin", "Harmony"],
+        "magic": ["Allomancy", "Feruchemy", "Hemalurgy", "Metalborn", "Mistborn", "Misting", "Savant", "Ferring", "Twinborn", "Compounding", "Atium", "Lerasium", "Harmonium", "Trellium"],
+        "spouse": "Ashweather Cett",
+        "parents": 	["Ashweather, Mother"],
+        "siblings": "Gneorndin",
+        "descendants": ["Edwarn", "Waxillium", "Telsin", "Hinston", "Aving", "Westweather", "Maxillium", "Tindwyl"],
+        "born":	"~1006 FE",
+        "abilities": "Rioter",
+        "groups": "Venture army",
+        "ethnicity": "Noble",
+        "introduced": "The Well of Ascension",
+        "children": ["Allrianne", "Gneorndin"]
     }
 ]
