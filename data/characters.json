@@ -135,14 +135,23 @@
     },
     {
         "id": 11,
-        "name": "Allriandre Durkel",
-        "description": "is a single mother in Elendel on Scadrial.",
+        "name": "Allriandre Cett",
+        "description": "is a noblewoman from the Western Dominance and a zinc Misting (aka a Rioter) on Scadrial during the Final Empire and subsequent Collapse. ",
         "residence": "Elendel",
         "homeworld": "Scadrial",
         "universe": "Cosmere",
         "culture": ["Survivorism", "The Path", "Sliverism", "Trellism"],
         "organizations": ["The Set", "The Vanishers", "The Ghostbloods"],
         "shards": ["Preservation", "Ruin", "Harmony"],
-        "magic": ["Allomancy", "Feruchemy", "Hemalurgy", "Metalborn", "Mistborn", "Misting", "Savant", "Ferring", "Twinborn", "Compounding", "Atium", "Lerasium", "Harmonium", "Trellium"]
-    },
+        "magic": ["Allomancy", "Feruchemy", "Hemalurgy", "Metalborn", "Mistborn", "Misting", "Savant", "Ferring", "Twinborn", "Compounding", "Atium", "Lerasium", "Harmonium", "Trellium"],
+        "spouse": "Edgard",
+        "parents": 	["Ashweather, Mother"],
+        "siblings": "Gneorndin",
+        "descendants": ["Edwarn", "Waxillium", "Telsin", "Hinston", "Maxillium", "Tindwyl"],
+        "born":	"~1006 FE",
+        "abilities": "Rioter",
+        "groups": "Venture army",
+        "ethnicity": "Noble",
+        "introduced": "The Well of Ascension"
+    }
 ]
